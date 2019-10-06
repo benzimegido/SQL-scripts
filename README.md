@@ -11,3 +11,16 @@ You can use this code on SQL server.
 
 I hope you find this helpful
 Benzi
+
+Version
+0.1.0
+
+Requirements
+SQL server
+
+
+ORM
+SQLServer
+
+Installation
+Run the SQL script on your query window
