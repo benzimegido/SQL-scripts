@@ -12,15 +12,21 @@ You can use this code on SQL server.
 I hope you find this helpful
 Benzi
 
-Version
+## Version
+
 0.1.0
 
-Requirements
+## Requirements
+
 SQL server
 
 
-ORM
-SQLServer
+### ORM
 
-Installation
+- SQLServer
+
+
+## Installation
+
 Run the SQL script on your query window
+
