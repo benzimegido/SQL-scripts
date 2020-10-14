@@ -130,6 +130,6 @@ JOIN
 
 
 ORDER BY 1
-END
+END;
 
 
